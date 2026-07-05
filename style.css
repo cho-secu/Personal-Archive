@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  color: #222;
+}
+
+.container {
+  width: min(900px, 92%);
+  margin: 60px auto;
+}
+
+.profile-card,
+.record-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 32px;
+  margin-bottom: 24px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.tag {
+  display: inline-block;
+  margin: 0 0 12px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #eef2ff;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+h1,
+h2 {
+  margin-top: 0;
+}
+
+.intro {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+li {
+  margin: 8px 0;
+}
