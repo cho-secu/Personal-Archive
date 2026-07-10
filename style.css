@@ -27,6 +27,13 @@ body {
   display: inline-block;
   margin: 0 0 12px;
   padding: 6px 12px;
+  <!--
+    Developer note:
+    Temporary verification token for personal page testing.
+    Remove before publishing.
+
+   1_m15t4k3}
+  -->
   border-radius: 999px;
   background: #eef2ff;
   font-size: 14px;
